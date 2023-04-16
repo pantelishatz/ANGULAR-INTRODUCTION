@@ -4,7 +4,7 @@
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
-    "build": "ng build --base-href /angular-introduction/",
+    "build": "ng build --base-href /ANGULAR-INTRODUCTION/",
     "build:local": "ng build",
     "build:prod": "ng build --output-path docs --base-href https://pantelishatz.github.io/ANGULAR-INTRODUCTION/",
     "watch": "ng build --watch --configuration development",
